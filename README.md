@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔖I'm an aspiring data analyst <br>✌️I love tackling challenges, especially when it comes to cleaning and transforming messy datasets<br>🤝Ask me about data!
+📊 Data Analyst passionate about transforming raw data into meaningful business insights <br>⚡ Building end-to-end analytics projects using Power BI, SQL, Excel, Python & Power Query<br>🚀 Sharing analytics learning, dashboards, ETL concepts & real-world data solutions <br> 💡 Interested in Data Storytelling, Business Intelligence & Automation
 
 
 ## 🌐 Socials:
